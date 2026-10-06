@@ -123,7 +123,7 @@ po-datepicker-range .po-button-vertical-divider {
   background-color: var(--color-neutral-mid-40);
   stroke-linecap: round;
   width: var(--border-width-sm);
-  height: 24px;
+  height: 20px;
   flex-shrink: 0;
 }
 

@@ -409,7 +409,7 @@ po-accordion {
   --font-weight: var(--font-weight-bold);
 
   --background-hover: var(--color-brand-01-lightest);
-  --color-hover: var(--color-action-hover);
+  --color-hover: var(--color-action-pressed);
 
   --background-pressed: var(--color-brand-01-lighter);
   --color-pressed: var(--color-action-pressed);
@@ -473,7 +473,7 @@ po-button {
   --shadow: var(--shadow-none);
 
   /* hover */
-  --color-hover: var(--color-action-hover);
+  --color-hover: var(--color-action-pressed);
   --background-hover: var(--color-brand-01-lighter);
   --border-color-hover: var(--color-brand-01-darkest);
 
@@ -554,7 +554,7 @@ po-button-group .po-button {
   --shadow: var(--shadow-none);
 
   /* hover */
-  --color-hover: var(--color-action-hover);
+  --color-hover: var(--color-action-pressed);
   --background-hover: var(--color-brand-01-lighter);
   --border-color-hover: var(--color-brand-01-darkest);
 
@@ -602,7 +602,7 @@ po-calendar {
 
   /* HOVER */
   --text-color-hover: var(--color-neutral-light-00);
-  --color-hover: var(--color-action-hover);
+  --color-hover: var(--color-action-pressed);
 
   /* INTERVAL (Range) */
   --text-color-interval: var(--color-action-default);
@@ -764,7 +764,7 @@ po-checkbox {
 
   --color-checked: var(--color-action-default);
 
-  --color-hover: var(--color-action-hover);
+  --color-hover: var(--color-action-pressed);
   --shadow-color-hover: var(--color-brand-01-lighter);
 
   --outline-color-focused: var(--color-action-focus);
@@ -801,7 +801,7 @@ po-combo {
   --background: var(--color-neutral-light-05);
   --border-radius: var(--border-width-lg);
 
-  --color-hover: var(--color-action-hover);
+  --color-hover: var(--color-action-pressed);
   --background-hover: var(--color-brand-01-lightest);
 
   --color-focused: var(--color-action-default);
@@ -1315,7 +1315,7 @@ po-menu-filter {
 
   --color-clear: var(--color-action-default);
 
-  --color-hover: var(--color-action-hover);
+  --color-hover: var(--color-action-pressed);
   --background-hover: var(--color-brand-01-lightest);
 
   --color-focused: var(--color-action-default);
@@ -1408,7 +1408,7 @@ po-multiselect {
   --background: var(--color-neutral-light-05);
 
   /* hover */
-  --color-hover: var(--color-action-hover);
+  --color-hover: var(--color-action-pressed);
   --background-hover: var(--color-brand-01-lightest);
 
   /* focus */
@@ -1713,7 +1713,7 @@ po-search {
   --color-clear: var(--color-action-default);
   --color-controls: var(--color-action-default);
 
-  --color-hover: var(--color-action-hover);
+  --color-hover: var(--color-action-pressed);
   --background-hover: var(--color-brand-01-lightest);
 
   --color-focused: var(--color-action-default);
@@ -1915,7 +1915,7 @@ po-table {
 
   --font-weight-headline: var(--font-weight-bold);
 
-  --color-hover: var(--color-action-hover);
+  --color-hover: var(--color-action-pressed);
   --background-color-hover: var(--color-brand-01-lighter);
 
   --outline-color-focused: var(--color-action-focus);
@@ -2126,7 +2126,7 @@ po-tree-view {
   --font-size: var(--font-size-default);
   --line-height: var(--line-height-md);
   --color: var(--color-action-default);
-  --color-hover: var(--color-action-hover);
+  --color-hover: var(--color-action-pressed);
   --color-pressed: var(--color-action-pressed);
   --color-disabled: var(--color-action-disabled);
   --title-color: var(--color-action-focus);
